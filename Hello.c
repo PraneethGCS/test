@@ -1,5 +1,7 @@
 #include<stdio.h>
 void main(){
     printf("Hello World");
+    printf("VVCE Mysore");
     printf("VVCE Bengaluru");
+    printf("VVCE Mangalore");
 }
